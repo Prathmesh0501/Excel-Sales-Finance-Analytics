@@ -1,5 +1,6 @@
-# Excel-Sales-Finance-Analytics
-📊A comprehensive Excel-based project that combines data analysis, visualization, and business reporting for Sales and Finance departments. The dashboard leverages Power Query, Power Pivot, and DAX to deliver strategic insights for decision-makers.
+# Sales-Finance-Analytics
+📊A comprehensive Excel-based analysis combining Sales Performance, Market Insights, and Financial Reporting — designed to drive better business decisions through actionable insights and interactive dashboards.
 ------------------------------------------------------------
-## Sales
+# 📈 Sales Report
+## Project 
 
