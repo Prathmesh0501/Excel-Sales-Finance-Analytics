@@ -1,2 +1,4 @@
 # Excel-Sales-Finance-Analytics
-📊 Comprehensive Excel-based Sales &amp; Finance reports covering performance, profitability, and product trends.
+📊A comprehensive Excel-based project that combines data analysis, visualization, and business reporting for Sales and Finance departments. The dashboard leverages Power Query, Power Pivot, and DAX to deliver strategic insights for decision-makers.
+
+
